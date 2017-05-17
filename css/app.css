@@ -5839,7 +5839,7 @@ a {
   float: left;
   margin-left: 0;
   width: 292px;
-  height: 400px; }
+  height: 420px; }
 
 .pic-1::before {
   content: '';
@@ -5861,7 +5861,7 @@ a {
   float: left;
   margin-left: 0;
   width: 292px;
-  height: 400px; }
+  height: 420px; }
 
 .pic-2::before {
   content: '';
@@ -5883,7 +5883,7 @@ a {
   float: left;
   margin-left: 0;
   width: 292px;
-  height: 400px; }
+  height: 420px; }
 
 .pic-3::before {
   content: '';
@@ -5906,7 +5906,7 @@ a {
   margin-left: 0;
   margin-right: 0;
   width: 292px;
-  height: 400px; }
+  height: 420px; }
 
 .pic-4::before {
   content: '';
@@ -5928,5 +5928,10 @@ a {
 .sampling {
   background-image: url("../images/tile.jpg");
   background-size: cover; }
+
+.icon {
+  height: 100px;
+  width: auto;
+  color: white; }
 
 /*# sourceMappingURL=app.css.map */
