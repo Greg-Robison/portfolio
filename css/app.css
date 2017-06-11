@@ -5849,7 +5849,7 @@ a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(72, 45, 20, 0.8);
+  background-color: rgba(72, 45, 20, 0.6);
   z-index: 100; }
 
 .pic-1:hover::before {
@@ -5871,7 +5871,7 @@ a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(72, 45, 20, 0.8);
+  background-color: rgba(72, 45, 20, 0.6);
   z-index: 100; }
 
 .pic-2:hover::before {
@@ -5893,7 +5893,7 @@ a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(72, 45, 20, 0.8);
+  background-color: rgba(72, 45, 20, 0.6);
   z-index: 100; }
 
 .pic-3:hover::before {
@@ -5916,7 +5916,7 @@ a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(72, 45, 20, 0.8);
+  background-color: rgba(72, 45, 20, 0.6);
   z-index: 100; }
 
 .pic-4:hover::before {
@@ -5933,5 +5933,12 @@ a {
   height: 100px;
   width: auto;
   color: white; }
+
+.para {
+  line-height: 1.5;
+  width: 285px; }
+
+.codelink {
+  color: red; }
 
 /*# sourceMappingURL=app.css.map */
